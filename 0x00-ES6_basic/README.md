@@ -1,1 +1,1 @@
-# ALX Backend Javascript
+# ALX Backend Javascript.
